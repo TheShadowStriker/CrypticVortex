@@ -49,7 +49,7 @@ Automatically distribute expenses evenly among participants
 ## Working
 
 1. **Home Page**: 
-   - The home page provides an overview of **Eveny**, explaining its purpose as an expense tracker designed for daily use. It highlights key features and benefits, encouraging users to manage their finances effectively.
+   - The home page provides an overview of **Evenly**, explaining its purpose as an expense tracker designed for daily use. It highlights key features and benefits, encouraging users to manage their finances effectively.
    - From the home page, users can easily navigate to the **Login Page**.
 
 2. **Login Page**: 
